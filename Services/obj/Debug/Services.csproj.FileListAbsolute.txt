@@ -1,0 +1,16 @@
+D:\POS\Services\bin\Debug\Services.dll
+D:\POS\Services\bin\Debug\Services.pdb
+D:\POS\Services\bin\Debug\Domain.dll
+D:\POS\Services\bin\Debug\Persistance.dll
+D:\POS\Services\bin\Debug\Repository.dll
+D:\POS\Services\bin\Debug\EntityFramework.dll
+D:\POS\Services\bin\Debug\Domain.pdb
+D:\POS\Services\bin\Debug\Persistance.pdb
+D:\POS\Services\bin\Debug\Persistance.dll.config
+D:\POS\Services\bin\Debug\Repository.pdb
+D:\POS\Services\bin\Debug\Repository.dll.config
+D:\POS\Services\bin\Debug\EntityFramework.xml
+D:\POS\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\POS\Services\obj\Debug\Services.csproj.CopyComplete
+D:\POS\Services\obj\Debug\Services.dll
+D:\POS\Services\obj\Debug\Services.pdb
