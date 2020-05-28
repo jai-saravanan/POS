@@ -1,0 +1,5 @@
+D:\POS\Domain\bin\Debug\Domain.dll
+D:\POS\Domain\bin\Debug\Domain.pdb
+D:\POS\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+D:\POS\Domain\obj\Debug\Domain.dll
+D:\POS\Domain\obj\Debug\Domain.pdb
